@@ -1,7 +1,7 @@
 # Applied-Plotting-Charting-Data-Representation-in-Python
 Coursera | Applied Plotting, Charting &amp; Data Representation in Python（University of Michigan）
 
-These may include answers to Applied Plotting, Charting &amp; Data Representation in Python's  assignments
+These may include answers to Applied Plotting, Charting &amp; Data Representation in Python's  assignments.
 
 You can see the link in my blog.
 
